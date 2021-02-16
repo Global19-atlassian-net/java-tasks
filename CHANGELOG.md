@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.30.13](https://www.github.com/googleapis/java-tasks/compare/v1.30.12...v1.30.13) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#351](https://www.github.com/googleapis/java-tasks/issues/351)) ([bc17256](https://www.github.com/googleapis/java-tasks/commit/bc172567b4f6443b4ba69f8718e2523757adfdd7))
+
 ### [1.30.12](https://www.github.com/googleapis/java-tasks/compare/v1.30.11...v1.30.12) (2021-01-14)
 
 
